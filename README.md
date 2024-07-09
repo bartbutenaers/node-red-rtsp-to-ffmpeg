@@ -7,6 +7,8 @@ Run the following npm command in your Node-RED user directory (typically ~/.node
 npm install @bartbutenaers/node-red-contrib-rtsp-to-mjpeg
 ```
 
+CAUTION: FFmpeg needs to be installed before you can use this node!
+
 ## Support my Node-RED developments
 Please buy my wife a coffee to keep her happy, while I am busy developing Node-RED stuff for you ...
 
